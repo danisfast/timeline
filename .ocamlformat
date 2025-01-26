@@ -1,0 +1,3 @@
+exp-grouping = preserve
+let-binding-spacing = compact
+indicate-multiline-delimiters = space
